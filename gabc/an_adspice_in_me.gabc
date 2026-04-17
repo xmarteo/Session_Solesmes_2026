@@ -2,6 +2,7 @@ name:Adspice in me;
 office-part:Antiphona;
 mode:8;
 book:Psalterium Monasticum, 1981, p. 273;
+nabc-lines:1;
 %%
 (c3) Ad(h|vi)spi(h|vi-)ce(g|vi) in(h>|vi>) me,(f_|vi-) *(,) et(f|ta) mi(h|vi)se(e|ta)ré(f|vi)re(ed|cllsc3) me(ef|pe)i(f|vi) Dó(e|vi)mi(de|pe)ne.(e.|ta) (::)
 

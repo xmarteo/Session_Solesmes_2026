@@ -3,5 +3,6 @@ office-part:Antiphona;
 mode:8;
 book:Antiphonale monasticum II, 2006, p. 102;
 transcriber:Matthias Bry;
+nabc-lines:1;
 %%
-(c4)RE(f)spé(g)xit(g) Dó(hg)mi(fg)nus(g) *(,) hu(h)mi(j)li(i)tá(j)tem(h) me(h)am,(g) (;) et(h) fe(j)cit(i) in(j>) me(h) ma(h>)gna(ghg) (,) qui(ef) po(gh)tens(h>) est.(g) (::) <eu>E(j) u(j) o(i) u(j) a(h) e.(g) </eu>(::)
+(c4)RE(f|gr)spé(g|vi)xit(g|vi-) Dó(hg|cllsc2)mi(fg|pe)nus(g|vi-) *(,) hu(h|vi)mi(j|vihh)li(i|tahh)tá(j|vihh)tem(h|vi) me(h|vi)am,(g|tahh) (;) et(h|vi) fe(j|vihh)cit(i|tahh) in(j>|vi>hh) me(h|ta) ma(h>|vi>hh)gna(ghg|toS) (,) qui(ef|ta/vi) po(gh|pe)tens(h>|vi>) est.(g|ta) (::) <eu>E(j) u(j) o(i) u(j) a(h) e.(g) </eu>(::)

@@ -3,5 +3,6 @@ office-part:Antiphona;
 mode:4*;
 book:Antiphonale monasticum II, 2006, p. 82;
 transcriber:Matthias Bry;
+nabc-lines:1;
 %%
-(c4)MA(f)gní(fe)fi(d)cet(e) te(fg) sem(gfg>)per(d) *(,) á(f)ni(gh)ma(h) me(g)a,(f) De(g)us(g) me(e)us.(e) (::) <eu>E(g) u(g) o(h) u(f) a(g) e.(e) </eu>(::)
+(c4)MA(f|vi-)gní(fe|cllsc2)fi(d|ta)cet(e|vi) te(fg|cl) sem(gfg>|po>)per(d|ta) *(,) á(f|vi)ni(gh|pe)ma(h|vi) me(g|vi)a,(f|ta) De(g|vi)us(g|vi) me(e|ta)us.(e|ta) (::) <eu>E(g) u(g) o(h) u(f) a(g) e.(e) </eu>(::)

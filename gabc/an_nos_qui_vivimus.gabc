@@ -3,7 +3,8 @@ office-part:Antiphona;
 book:Antiphonale Romanum II, 2009, p. 467 & Antiphonale monasticum II, 2006, p. 75;
 transcriber:Robert Bruce;
 mode:Per;
+nabc-lines:1;
 %%
-(c4)NOS(c) qui(d) ví(f)vi(fg)mus,(g) *(,) be(h)ne(ixi)dí(h)ci(g)mus(f) Dó(gh)mi(h)no.(g) (::)
+(c4)NOS(c|ta) qui(d|vi) ví(f|vihg)vi(fg|pehh)mus,(g|vi-hg) *(,) be(h|vihg)ne(ixi|vihh)dí(h|vihg)ci(g|vi)mus(f|ta) Dó(gh|cl)mi(h|vi)no.(g|ta) (::)
 
 <i><c>Ps.</c></i> In(ixhi) éx(h)i(h)tu(h) Is(h)ra(h)<i>ël</i>(g) <i>de</i>(ixi) <i>Æ</i>(h)<b>gýp</b>(g fr)to,(f) *(:) do(g)mus(g) Ia(g)cob(g) de(g) pó(g)pu(g)<i>lo</i>(d) <b>bár</b>(f)ba(fr)ro,(ed) (::)

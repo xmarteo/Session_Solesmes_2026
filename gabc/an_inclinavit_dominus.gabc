@@ -3,7 +3,8 @@ office-part:Antiphona;
 mode:1;
 book:Antiphonale monasticum II, 2006, p. 77;
 transcriber:Matthias Bry;
+nabc-lines:1;
 %%
-(c4)IN(f)cli(f)ná(fh)vit(h) Dó(h)mi(g)nus(h) <sp>*</sp>() au(f)rem(e) su(g)am(fe) mi(d)hi.(d) (::)
+(c4)IN(f|ta)cli(f|ta)ná(fh|pe)vit(h|vi) Dó(h|vi)mi(g|ta)nus(h|vi-) <sp>*</sp>() au(f|vi)rem(e|ta) su(g|vi)am(fe|cllsc3) mi(d|ta)hi.(d|ta) (::)
 
 <i><c>Ps.</c></i> Di(f)lé(gh)xi,(h) quón(h)i(h)am(h) ex(h)<b>áu</b>(ixi hr)dit(h) <b>Dó</b>(g)mi(hr)nus(h) *(:) vo(h)cem(h) de(h)pre(h)ca(h)ti(h)<i>ó</i>(g)<i>nis</i>(f) <b>me</b>(gh gr)æ.(g) (::)

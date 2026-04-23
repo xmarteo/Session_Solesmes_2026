@@ -5,11 +5,18 @@ book:Graduale Romanum, 1974, p. 869;
 transcriber:Christopher Wrinn;
 nabc-lines:1;
 %%
-(c4) GAu(c)de(d)á(ixdh'!iv)mus(h.) *(,) om(hg~)nes(hg) in(fg) Dó(gjh)mi(ixh.g!hwihi)no,(ih..) (;)
-di(h)em(fg~) fes(g)tum(gff) ce(dg)le(gff)brán(dg~)tes(gff) (,) sub(f) ho(g)nó(g./hjh)re(ghg.) Be(f)ne(f)dí(h)cti(gjj) Ab(h)bá(hih___)tis:(h.) (:)
-de(fg) cu(fg)jus(f) sol(f)em(g)ni(g)tá(g./hjh)te(ghg.) (,) gau(fg)dent(f) An(fg/hgh)ge(gvFE/fwgfg)li,(gf..) (;)
-et(f) col(g)láu(g./hjHG)dant(h_g) (,) Fí(fge)li(f)um(fg/hf/gvFE) De(d!ewfef)i.(ed..) (::)
-<c><i>Ps.</i></c> Ma(f)gnus(gh) Dó(h)mi(h)nus,(h) et(h) lau(h)dá(hj)bi(h)lis(h) ni(hg)mis:(gh..) *(:)
-in(gf~) ci(gh)vi(h)tá(h)te(h) De(h)i(h) no(h)stri,(h.) (,) in(h) mon(h)te(hjh) san(g)cto(f) e(fff)jus.(d.) (::)
-Gló(f)ri(gh)a(h) Pa(h)tri(h) (::)
+(c4) GAu(c|ta)de(d|vi)á(ixdh//iv|///pevi)mus(h.|ta) *(,) 
+om(hg~|cl~)nes(hg|tolsc2) in(fg|peS) Dó(gjh|//to)mi(ixh_g!hwihi|/////cl-ql!po)no,(ih..|//cl-) (;) 
+di(h|vi)em(fg~|/pe~) fes(g|vi)tum(gff|//po) ce(dg|peS)le(gff|//po)brán(dg~|/pe~)tes(gff|//po) (,) 
+sub(f|vi) ho(g|vi)nó(g//hjh|//vi///to)re(ghg.|tolsc4lst3) 
+Be(f)ne(f)díc(h)ti(gjj|pevi) Ab(h|/ta)bá(hih___|//toS)tis:(h.|/ta) (:) 
+de(fg|pe) cu(fg|pe)jus(f|/ta) so(f|vi)lem(g)ni(g)tá(g//hjh|vi-///tolst2)te(ghg.|//tolst2) (,) 
+gau(fg|pe>)dent(f|vi) An(fg/hgh|///po>pp2)ge(gvFE/fwgfg|//vi-sut2//ql!po)li,(gf..|//cl-) (;) 
+et(f|/ta) col(g|vi)láu(g//hjHG|/vi-//to>)dant(h_g|cl-) (,) 
+Fí(fge|//to)li(f|vi)um(fg/hf/gvFE|//po-1pp2su1sux1) De(d!ewfef|//ql!poppt1)i.(ed..|/cl-) (::) 
+
+<c><i>Ps.</i></c> Ma(f)gnus(gh) Dó(h)mi(h)nus,(h) et(h) lau(h)dá(hj)bi(h)lis(h) ni(hg)mis:(gh..) *(:)  
+in(gf~) ci(gh)vi(h)tá(h)te(h) De(h)i(h) nos(h) tri,(h.) (,) 
+in(h) mon(h)te(hjh) san(g)cto(f) e(fff) jus.(d.) (::) 
+Gló(f)ri(gh)a(h) Pa(h) tri(h) (::) 
 E(h) u(hjh) o(g) u(f) a(fff) e(dc/df..) (::)

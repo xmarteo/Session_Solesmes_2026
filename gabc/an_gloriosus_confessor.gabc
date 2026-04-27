@@ -3,7 +3,11 @@ office-part:Antiphona;
 mode:8c;
 book:Antiphonale monasticum III, 2007, p. 142;
 transcriber:Matthias Bry;
+nabc-lines:1;
 %%
-(c4) GLo(j|obvihi)ri(j|vihi)ó(jkjjo|//tohiorhk)sus(g|ta) <sp>*</sp>(,) con(i|vi)fés(k|vihj)sor(k|vihj) Dó(jk|pehj)mi(j|tahh)ni(ji|clhhlsc3) Be(h|ta)ne(hi|pe)díc(ij|vs)tus(i|ta) (,) vi(ji|clhhlsc3)tam(h|ta) an(ij|pe)gé(h|vi)li(g|ta)cam(h|vihh) ge(g|vi)rens(fe|cllsc3) in(fg~|ta>) ter(g|ta-)ris,(g|ta-lsew3) (;) spé(g|ta)cu(g|ta)lum(g|ta) bo(h|vi)nó(g|ta)rum(h|vi) ó(jk|peShj)pe(ji|cl-hh)rum(g|ta) (,) fac(h|vihh)tus(g|vi) est(fd|cllsc3) mun(e!fwg|qlppt1)do:(g|talse6) (:) et(g|ta) í(h|vi)de(hi|pe)o(i|vi) (,) cum(j|vihi) Chris(ji|cl-hh)to(h|ta) iam(j|vi) si(ih|cl)ne(g|vi) fi(fe|cllsi2)ne(d|ta) (,) gau(ef|peS)det(gh|pe) in(h|vi) cæ(g|ta)lis.(g|tacb) (::) 
+(c4) GLo(j|obvihi)ri(j|vihi)ó(jkjjo|//tohiorhk)sus(g|ta) <sp>*</sp>(,) con(i|vi)fés(k|vihj)sor(k|vihj) Dó(jk|pehj)mi(j|tahh)ni(ji|clhhlsc3) Be(h|ta)ne(hi|pe)díc(ij|vs)tus(i|ta) (,)
+vi(ji|clhhlsc3)tam(h|ta) an(ij|pe)gé(h|vi)li(g|ta)cam(h|vihh) ge(g|vi)rens(fe|cllsc3) in(fg~|ta>) ter(g|ta-)ris,(g|ta-lsew3) (;) spé(g|ta)cu(g|ta)lum(g|ta) bo(h|vi)nó(g|ta)rum(h|vi) ó(jk|peShj)pe(ji|cl-hh)rum(g|ta) (,)
+fac(h|vihh)tus(g|vi) est(fd|cllsc3) mun(e!fwg|qlppt1)do:(g|talse6) (:) et(g|ta) í(h|vi)de(hi|pe)o(i|vi) (,) cum(j|vihi) Chris(ji|cl-hh)to(h|ta) iam(j|vi) si(ih|cl)ne(g|vi) fi(fe|cllsi2)ne(d|ta) (,)
+gau(ef|peS)det(gh|pe) in(h|vi) cæ(g|ta)lis.(g|tacb) (::) 
 
 <i><c>Ps.</c></i> Lau(g)dá(h)te(j) Dó(j)mi(j)num,(j) quón(j)i(j)am(j) bo(j)num(j) est(j) psál(j)le(j)re(j) De(j)o(j) <b>nos</b>(k jr)tro,(j) *(:) quón(j)i(j)am(j) iu(j)cún(j)dum(j) est(j) ce(j)le(j)<i>brá</i>(h)<i>re</i>(j) <b>lau</b>(k jr)dem.(j) (::)

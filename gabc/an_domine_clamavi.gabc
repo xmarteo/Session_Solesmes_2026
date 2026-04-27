@@ -1,7 +1,8 @@
 name:Domine clamavi ad te;
 office-part:Antiphona;
-mode:8G;
+mode:8g;
 book:Antiphonale Romanum II, 2009, p. 450;
+nabc-lines:1;
 %%
 (c3) DO(h|vi)mi(h|vihg)ne(g|ta) <sp>*</sp>() cla(h|vihg)má(f|vihg)vi(e|ta) ad(g|vi) te,(h`|vihh) ex(fe|cllsc3)áu(f|vihg)di(e|peShg) me.(e|bv-su1sut2) (::) 
 

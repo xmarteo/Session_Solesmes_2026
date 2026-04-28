@@ -1,19 +1,15 @@
 name:Gaudeamus...Benedicti Abbatis;
 office-part:Introitus;
 mode:1;
-book:Graduale Romanum, 1974, p. 869;
-transcriber:Christopher Wrinn;
+book:Graduale Triplex, 1979, p. 869;
+transcriber:Andrew Hinkley;
 nabc-lines:1;
 %%
-(c4) GAu(c|ta)de(d|vi)á(ixdh//iv|///pevi)mus(h.|ta) <sp>*</sp>(,) 
-om(hg~|cl~)nes(hg|tolsc2) in(fg|peS) Dó(gjh|//to)mi(ixh_g!hwihi|/////cl-ql!po)no,(ih..|//cl-) (;) 
-di(h|vi)em(fg~|/pe~) fes(g|vi)tum(gff|//po) ce(dg|peS)le(gff|//po)brán(dg~|/pe~)tes(gff|//po) (,) 
-sub(f|vi) ho(g|vi)nó(g//hjh|//vi///to)re(ghg.|tolsc4lst3) 
-Be(f)ne(f)díc(h)ti(gjj|pevi) Ab(h|/ta)bá(hih___|//toS)tis:(h.|/ta) (:) 
-de(fg|pe) cu(fg|pe)jus(f|/ta) so(f|vi)lem(g)ni(g)tá(g//hjh|vi-///tolst2)te(ghg.|//tolst2) (,) 
-gau(fg|pe>)dent(f|vi) An(fg/hgh|///po>pp2)ge(gvFE/fwgfg|//vi-sut2//ql!po)li,(gf..|//cl-) (;) 
-et(f|/ta) col(g|vi)láu(g//hjHG|/vi-//to>)dant(h_g|cl-) (,) 
-Fí(fge|//to)li(f|vi)um(fg/hf/gvFE|//po-1pp2su1sux1) De(d!ewfef|//ql!poppt1)i.(ed..|/cl-) (::) 
+(c4) GAu(c|talsi8lsm9)de(d|vi)á(ixdh!iv|pe!vilss2lsl3)mus(h.|ta) <sp>*</sp>(,) om(hg~|vi>lss6)nes(hg|tolsc2) in(fg|peSlsm3lsi7) Dó(gjh|tolss2lse7)mi(ixh.g!hwihi|cl-ql!po)no,(ih..|cl-) (;)
+di(h|vi)em(fg~|ta>lsm2lsi8) fes(g|vi)tum(gff|polsc2) ce(dg|peSlsm3lsi7)le(gff|po)brán(dg~|ta>lsi7)tes(gff|po) (,) sub(f|vilse4lsc3) ho(g|vilsl2)nó(g./hjh|vilse4tohhlsl2)re(ghg.|tolsc4lst2)
+Be(f)ne(f)díc(h)ti(gjj) Ab(h)bá(hih___)tis:(h.) (:) de(fg|pelsi8) cu(fg|pe>)jus(f|ta) sol(f)em(g)ni(g)tá(g./hjh)te(ghg.) (,) gau(fg|pe>1lsi6)dent(f|vi)
+An(fg/hgh|po>pp2lss6)ge(gvFE|vi-sut2lsp3|fwgfg|qlhh!pohh)li,(gf..|cl-) (;) et(f|talse8) col(g|vilsc1)láu(g./hjHG|vi-/to>hjlss6)dant(h_g|cl-) (,) Fí(fge|to)li(f|vi)um(fg/hfgvFE|po-1pp2su1sux1lss2)
+De(d!ewfef|ql!poppt1)i,(ed..|cl-) (::) 
 
 <c><i>Ps.</i></c> Ma(f)gnus(gh) Dó(h)mi(h)nus,(h) et(h) lau(h)dá(hj)bi(h)lis(h) ni(hg)mis:(gh..) <sp>*</sp>(:)  
 in(gf~) ci(gh)vi(h)tá(h)te(h) De(h)i(h) nos(h)tri,(h.) (,) 

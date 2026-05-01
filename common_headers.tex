@@ -304,16 +304,16 @@ headsep=3mm,
   \vspace{0.5\baselineskip}
 }
 
-\newcommand{\bigtitle}[3]{
+\newcommand{\bigtitle}[4][]{
   \begin{center}
 	{\fontspec[Scale=\customscale]{Futura Book}
-	\MakeUppercase{\Large #1}\\
+	\MakeUppercase{\Large #2}\\
 	}
   \end{center}
-  \renewcommand{\rightmark}{\hyphenpenalty=50{\sc#3}}
-  \renewcommand{\leftmark}{\hyphenpenalty=50{\sc#2}}
+  \renewcommand{\rightmark}{\hyphenpenalty=50{\sc#4}}
+  \renewcommand{\leftmark}{\hyphenpenalty=50{\sc#3}}
   \thispagestyle{empty}
-  \addcontentsline{toc}{section}{#3}
+  \addcontentsline{toc}{section}{\ifstrequal{#1}{}{#4}{#1}}
 }
 
  \newcommand{\translation}[1]{

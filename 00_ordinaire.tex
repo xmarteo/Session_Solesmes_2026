@@ -1,13 +1,20 @@
 % !TEX TS-program = lualatex
 % !TEX encoding = UTF-8
 
-\documentclass[Session2025.tex]{subfiles}
+\documentclass[Session2026.tex]{subfiles}
 
 \ifcsname preamble@file\endcsname
   \setcounter{page}{\getpagerefnumber{M-00_ordinaire}}
 \fi
 
 \begin{document}
+\newgeometry{scale=1, headsep=0mm}%
+\noindent\includegraphics[height=\textheight]{photo_gregoire_portrait.png}\thispagestyle{empty}
+\restoregeometry
+
+\footnotesize{\rubric{Page précédente: Saint Grégoire le Grand - Sanctuaire du Monte Celio, Rome. \\ \copyright{} Jean-Michel Maillet.}}
+
+\vspace{1.5cm}
 
 \bigtitle{Ordinaire de la Messe}{Ordinaire de la Messe}{Ordinaire de la Messe}
 
@@ -56,6 +63,8 @@ et, dimissís peccátis nostris,
 perdúcat nos ad vitam ætérnam.\\
 \rr Amen.}{Que Dieu Tout-Puissant nous fasse miséricorde ; qu'il nous pardonne nos péchés et nous conduise à la vie éternelle.~~~\rr Amen.}
 
+\newpage
+
 \smalltitle{Kyrie}
 
 \smalltitle{Gloria}
@@ -103,6 +112,8 @@ ad utilitátem quoque nostram
 totiúsque Ecclésiæ suæ sanctæ.}{
 Priez, frères et sœurs : que mon sacrifice, et le vôtre, soit agréable à Dieu le Père tout-puissant.\\
 \rr Que le Seigneur reçoive de vos mains ce sacrifice à la louange et à la gloire de son nom, pour notre bien et celui de toute l’Église.}
+
+\newpage
 
 \smalltitle{Préface}
 
@@ -312,6 +323,8 @@ per ómnia sǽcula sæculórum.\\
 Par lui, avec lui et en lui, à toi, Dieu le Père tout-puissant, dans l'unité du Saint-Esprit, tout honneur et toute gloire, pour les siècles des siècles.\\
 \rr Amen.}
 
+\newpage
+
 \smalltitle{Notre Père}
 
 \smallscore{MOR20_PaterNoster}
@@ -373,5 +386,17 @@ Seigneur, je ne suis pas digne de te recevoir, mais dis seulement une parole et 
 \smalltitle{Envoi}
 
 \smallscore{MOR25_Benedicat}
+
+\vfill
+
+\footnotesize{\rubric{Pages suivantes: David et Saül, parement conservé à l'abbaye de Solesmes, \copyright{} Jacques Baguenier. On attribue à David la création des psaumes. Le jeune David charmait par sa musique les inquiétudes du roi Saül.}}
+
+\newpage
+
+\newgeometry{scale=1, headsep=0mm}%
+\noindent\includegraphics[height=\textheight]{photo_davidparement_paysage_gauche}\thispagestyle{empty}
+\newpage
+\noindent\includegraphics[height=\textheight]{photo_davidparement_paysage_droite}\thispagestyle{empty}
+\restoregeometry
 
 \end{document}

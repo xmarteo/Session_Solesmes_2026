@@ -1,5 +1,5 @@
-%KDP 6inx9in sans fonds perdus
-\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+%KDP 6inx9in avec fonds perdus de 0,125in
+\usepackage[paperwidth=6.125in, paperheight=9.25in]{geometry}
 
 \usepackage{fontspec}
 \usepackage[nolocalmarks]{polyglossia}
@@ -17,11 +17,21 @@
 
 \setdefaultlanguage[variant=french, frenchitemlabels=false]{french}
 
+%% sans fonds perdus
+%\geometry{
+%inner=25mm,
+%outer=14mm,
+%top=14mm,
+%bottom=14mm,
+%headsep=3mm,
+%}
+
+%% avec fonds perdus
 \geometry{
 inner=25mm,
-outer=14mm,
-top=14mm,
-bottom=14mm,
+outer=17.175mm,
+top=17.175mm,
+bottom=17.175mm,
 headsep=3mm,
 }
 
